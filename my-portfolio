@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="css/styles.css "type="text/css">
+  </head>
+  <body>
+    <h1>My portfolio</h1>
+    <h2>This is my Portfolio</h2>
+    <img src="images/amon.jpg" alt="A photo of me">
+    <p>In Moringa School, I had an opportunity to do projects.Here are some projects I've worked on since I joined Moringa School:</p>
+    <ul>
+      <li>My first webpage. <https://github.com/kangogoamon/my-first-webpage.</li>
+          <li>This shows the first webpage I was able to create in the Institution</li>
+      <li>My favourite things. <https://github.com/kangogoamon/my-favourite-things</li>
+          <li>This shows a list of my likes.It entails things I like doing and what I spend my leisure time doing.</li>
+      <li>Currently I'm working on a new project.It is yet to be complete.</li>
+          <li>This project is about creating an Agribusiness application that creates a platform to business people.</li>
+    </ul>
+    <h3>About Me</h3>
+  </body>
+<p>I am a son born to Mr and Mrs. Kangogo as their seventh child.Being the last born,I have to try as much as possible to gain much experience and secure a top-paying job to outsmart my siblings.</p>
+<p>I went to Kiram Academy for my primary education and graduated to high school in 2014.I joined Kabarnet high school in 2015 and completed my four-year course in 2018.I managed to attain a B plain(62 pts) and decided to join Moringa School</p>
+<p>I decided to take a class on programming as it is now the path to a top-paying job.</p>
+<p>To anyone who who wants to join a school and take on programming, I advise them to check out <a href="http://moringaschool.com/">Moringa School</a>. It's a great place to learn web development skills!</p>
+<p>I'm interested in creating mobile applications and websites to ease our day-to-day life.I'm also interested in meeting developers like me.
+</html>
