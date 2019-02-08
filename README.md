@@ -1,6 +1,6 @@
-# Kangogo Amon
+# Daily Green 
 #### Entails everything about me,my backgroung,life and education, 2019
-#### By **Kangogo Nick, Esau Kangogo**
+#### By **Kangogo Amon, Nick Kangogo**
 ## Description
 Give my details as a developer and show what I can and have already done with my experience.  I wan't to urge and encourage young developers on the importance of learning coding. 
 ## Setup/Installation Requireunder which this application can be used.  See below for more details on licensing.}*
